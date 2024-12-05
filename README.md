@@ -7,12 +7,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Mbf18DzH1yBzU76/giphy.gif" width="500">
-</div>
-
----
-
 ## 🌟 About Me
 
 - 🔭 **Current Focus**: Cutting-edge tech like **virtual humans**, **data pipelines**, and **microservices**.
