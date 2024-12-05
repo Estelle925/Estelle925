@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color: #0bf;">(Estelle925)</span>! 🌌</h1>
+<h1 align="center">Hi there, I'm <span style="color: #0bf;">John (Estelle925)</span>! 🌌</h1>
 <h3 align="center">💻 Software Engineer | 🚀 Tech Explorer | 🎨 Creative Thinker</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌟 **About Me**
+## 🌟 About Me
 
 - 🔭 **Current Focus**: Cutting-edge tech like **virtual humans**, **data pipelines**, and **microservices**.
 - 🌱 **Always Learning**: Exploring the magic of **Apache Flink**, **Electron**, and **AI-driven tools**.
@@ -21,14 +21,25 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Estelle925&show_icons=true&theme=radical" width="450">
-  <img src="https://streak-stats.demolab.com?user=Estelle925&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450">
-</div>
+## 🚀 Showcase Projects
+
+| 🌟 Project Name | 🛠️ Description | 🔗 Links |
+|----------------|---------------|---------|
+| [Spring Plugin System](https://github.com/Estelle925/spring-plugin-load) | Dynamic plugin loading framework for seamless extensibility. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| [Gobang Game](https://github.com/Estelle925/Gobang-game) | An exciting five-in-a-row game built with HTML and JS. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 
 ---
 
-## 💻 **Tech Stack**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Estelle925&show_icons=true&theme=radical" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estelle925&layout=compact&theme=radical" width="450">
+</p>
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -39,16 +50,7 @@
 
 ---
 
-## 🚀 **Showcase Projects**
-
-| 🌟 Project Name | 🛠️ Description | 🔗 Links |
-|----------------|---------------|---------|
-| [Spring Plugin System](https://github.com/Estelle925/spring-plugin-load) | Dynamic plugin loading framework for seamless extensibility. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| [Gobang Game](https://github.com/Estelle925/Gobang-game) | An exciting five-in-a-row game built with HTML and JS. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-
----
-
-## 🎉 **Dynamic Animations**
+## 🎉 Dynamic Animations
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
@@ -57,7 +59,7 @@
 
 ---
 
-## 🌐 **Find Me Online**
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
