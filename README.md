@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color: #0bf;">John (Estelle925)</span>! 🌌</h1>
+<h1 align="center">Hi there, I'm <span style="color: #0bf;"> (Estelle925)</span>! 🌌</h1>
 <h3 align="center">💻 Software Engineer | 🚀 Tech Explorer | 🎨 Creative Thinker</h3>
 
 <p align="center">
