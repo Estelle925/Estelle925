@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Showcase Projects
+## 🚀 My Projects
 
 | 🌟 Project Name | 🛠️ Description | 🔗 Links |
 |----------------|---------------|---------|
@@ -58,7 +58,7 @@
 
 ---
 
-## 🎉 Dynamic Animations
+## 🎉 Let's Coding
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
