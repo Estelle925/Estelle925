@@ -1,78 +1,69 @@
-# Hi there! 👋 I'm John (Estelle925)
+<h1 align="center">Hi there, I'm <span style="color: #0bf;">(Estelle925)</span>! 🌌</h1>
+<h3 align="center">💻 Software Engineer | 🚀 Tech Explorer | 🎨 Creative Thinker</h3>
 
-🎯 **Turning Ideas into Code, and Code into Impact**
-
-Welcome to my GitHub! I'm a **senior software development engineer** with extensive experience in building robust systems, solving complex problems, and crafting seamless digital experiences. Dive into my repositories and discover the world of innovation I thrive in.
-
----
-
-## 🚀 What I Do
-
-- **🔧 Software Development**: Designing scalable backend architectures and microservices.  
-- **🌐 Full-Stack Engineering**: Creating polished user experiences powered by rock-solid backends.  
-- **📊 Data Engineering**: Building real-time pipelines with **Flink CDC**, **ClickHouse**, and more.  
-- **🤖 Digital Innovation**: Pioneering virtual humans, automation, and AI-driven systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+my+universe!;Let's+build+amazing+things!;Coding+is+an+adventure!" alt="Typing SVG">
+</p>
 
 ---
-
-## 🛠️ Tech Stack & Tools 💡
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Flink-42A5F5?style=flat-square&logo=apache-flink&logoColor=white" alt="Flink" />
-  <img src="https://img.shields.io/badge/-ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
-  <img src="https://img.shields.io/badge/-DataX-FF6F00?style=flat-square&logo=data&logoColor=white" alt="DataX" />
-  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://media.giphy.com/media/3o6Mbf18DzH1yBzU76/giphy.gif" width="500">
 </div>
 
 ---
 
-### ✨ **Dynamic Showcase** ✨  
+## 🌟 **About Me**
+
+- 🔭 **Current Focus**: Cutting-edge tech like **virtual humans**, **data pipelines**, and **microservices**.
+- 🌱 **Always Learning**: Exploring the magic of **Apache Flink**, **Electron**, and **AI-driven tools**.
+- ⚡ **Hobbies**: Coding, exploring tech frontiers, and building games.
+
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/100000/123456789-animated-project.gif" width="300" alt="Animated Project">
+  <img src="https://github-readme-stats.vercel.app/api?username=Estelle925&show_icons=true&theme=radical" width="450">
+  <img src="https://streak-stats.demolab.com?user=Estelle925&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450">
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 💻 **Tech Stack**
 
-### 🌐 **Digital Dashboard**  
-🚀 Real-time **data visualization platform** for monitoring industrial systems.  
-🔗 [View Project](#)
-
-### 🤖 **Virtual Humans**  
-🎭 Lifelike avatars with facial expressions, speech synchronization, and motion capture.  
-🔗 [Learn More](#)
-
-### 📊 **Data Sync Pipeline**  
-🔗 High-performance **data synchronization system** using cutting-edge tools like **Flink CDC**.  
-🔗 [Learn More](#)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black">
+</p>
 
 ---
 
-## 📈 My GitHub Journey
+## 🚀 **Showcase Projects**
 
-![Estelle925's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estelle925&show_icons=true&theme=merko)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Estelle925&layout=compact&theme=merko)
-
----
-
-## 🌏 Let's Connect
-
-💼 [LinkedIn](#)  
-📬 Email: `your_email@example.com`  
-🌟 [GitHub Profile](https://github.com/Estelle925)
+| 🌟 Project Name | 🛠️ Description | 🔗 Links |
+|----------------|---------------|---------|
+| [Spring Plugin System](https://github.com/Estelle925/spring-plugin-load) | Dynamic plugin loading framework for seamless extensibility. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| [Gobang Game](https://github.com/Estelle925/Gobang-game) | An exciting five-in-a-row game built with HTML and JS. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 
 ---
 
-_“Technology is limitless, just like the ideas we bring to life.”_
+## 🎉 **Dynamic Animations**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/xT39D4CvA3CD5aq9PO/giphy.gif" width="400">
+</p>
+
+---
+
+## 🌐 **Find Me Online**
+
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:estelle925@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">✨ "Innovate boldly. Code passionately. Dream infinitely." ✨</p>
