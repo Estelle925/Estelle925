@@ -22,6 +22,7 @@
 | [Spring Plugin System](https://github.com/Estelle925/spring-plugin-load) | Dynamic plugin loading framework for seamless extensibility. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
 | [Gobang Game](https://github.com/Estelle925/Gobang-game) | An exciting five-in-a-row game built with HTML and JS. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 | [Spring License Starter](https://github.com/Estelle925/spring-license-starter) | A Spring Boot starter to automate license management for microservices. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| [SmartBrief](https://github.com/Estelle925/SmartBrief) | A concise and efficient library for summarizing textual data with advanced algorithms. | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) | 
 
 ---
 
